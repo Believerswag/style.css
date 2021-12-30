@@ -1,0 +1,58 @@
+h1{
+	font-family: Pushster;
+	text-align: center;
+	background-color: blue;
+	color: white;
+	padding: 30px;
+}
+header{
+	background-color: black;
+	padding: 8px;
+}
+header li{
+   display: inline;
+   margin: 100px;
+}
+li a:hover {
+	color: blue;
+	text-decoration: none;
+	font-family: Pushster;
+}
+li a{
+	color: white;
+	text-decoration: none;
+	font-family: Pushster;
+}
+
+hr{border: 2px solid black}
+
+h4{
+	font-family: Monsterrat;
+	text-align: left 100px;
+
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+
+</a>
+footer{
+	background-color: black;
+	padding: 8px;
+	color: white;
+}
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 8px;
+}
